@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Proton Framework Plugin\n"
+"POT-Creation-Date: 2017-06-23 20:28+0200\n"
+"PO-Revision-Date: 2017-06-23 23:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ProtonFrameworkPlugin.php\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr "Rok"
+
+#: butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr "Miesiąc"
+
+#: butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr "Dzień"
+
+#: butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr "Godzina"
+
+#: butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr "Minuta"
+
+#: butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr "Sekund"
+
+#: butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr "Dodaj / Edytuj obrazek"
+
+#: butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr "Ustaw jako obrazek"
+
+#: butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr "Wybierz obrazek"
+
+#: butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr "Zmień obrazek"
+
+#: butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr "Usuń obrazek"
+
+#: butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr "Nie wybrano obrazka"
+
+#: butterbean/tmpl/control-datetime.php:46
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+msgstr "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+
+#: butterbean/tmpl/control-datetime.php:52
+#, php-format
+msgid "%1$s %2$s, %3$s"
+msgstr "%1$s %2$s, %3$s"
+
+#: ext/breadcrumbs.php:13 ext/breadcrumbs.php:66
+msgid "Home"
+msgstr "Główna"
+
+#: ext/breadcrumbs.php:33
+msgid "Tag:"
+msgstr "Tag:"
+
+#: ext/breadcrumbs.php:37 ext/breadcrumbs.php:41 ext/breadcrumbs.php:45
+msgid "Archive for"
+msgstr "Kategoria"
+
+#: ext/breadcrumbs.php:49
+msgid "Author Archives"
+msgstr "Archa autora"
+
+#: ext/breadcrumbs.php:52
+msgid "Blog Archives"
+msgstr "Archuwa bloga"
+
+#: ext/breadcrumbs.php:55
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#: ext/breadcrumbs.php:67
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archiwum kategorii „%s”"
+
+#: ext/breadcrumbs.php:68
+#, php-format
+msgid "Archive for \"%s\""
+msgstr "Archiwum dla „%s”"
+
+#: ext/breadcrumbs.php:69
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Wyniki wyszukiwania dla zapytania „%s”."
+
+#: ext/breadcrumbs.php:70
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Posty otagowane „%s”"
+
+#: ext/breadcrumbs.php:71
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artykuły dodane przez %s"
+
+#: ext/breadcrumbs.php:72
+msgid "Error 404"
+msgstr "Błąd 404"
+
+#: ext/breadcrumbs.php:194
+msgid "Page"
+msgstr "Strona"
+
+#: ext/megamenu/proton-megamenu.php:8
+msgid "Mega Menu settings"
+msgstr "Mega Menu ustawienia"
+
+#: ext/megamenu/proton-megamenu.php:16 ext/megamenu/proton-megamenu.php:29
+#: ext/megamenu/proton-megamenu.php:163
+msgid "Mega Menu"
+msgstr "Mega Menu"
+
+#: ext/megamenu/proton-megamenu.php:17 ext/megamenu/proton-megamenu.php:30
+#: ext/megamenu/proton-megamenu.php:164
+msgid "Enable Mega Menu"
+msgstr "Włącz Mega Menu"
+
+#: ext/megamenu/proton-megamenu.php:41 ext/megamenu/proton-megamenu.php:175
+msgid "Header"
+msgstr "Nagłówek"
+
+#: ext/megamenu/proton-megamenu.php:42 ext/megamenu/proton-megamenu.php:176
+msgid "Make this a header"
+msgstr "Ustaw jako nagłówek"
+
+#: ext/megamenu/proton-megamenu.php:53 ext/megamenu/proton-megamenu.php:187
+msgid "Disable link"
+msgstr "Wyłącz Link"
+
+#: ext/megamenu/proton-megamenu.php:54 ext/megamenu/proton-megamenu.php:188
+msgid "Check this to disable linking"
+msgstr "Zaznacz, aby wyłączyć linkowanie"
+
+#: ext/megamenu/proton-megamenu.php:62 ext/megamenu/proton-megamenu.php:196
+msgid "Hide label"
+msgstr "Uktyj etykiety"
+
+#: ext/megamenu/proton-megamenu.php:63 ext/megamenu/proton-megamenu.php:197
+msgid "Check this to hide label"
+msgstr "Zaznacz, aby ukryć etykiety"
+
+#: ext/megamenu/proton-megamenu.php:70 ext/megamenu/proton-megamenu.php:204
+msgid "Full width"
+msgstr "Pełna szerokość"
+
+#: ext/megamenu/proton-megamenu.php:71 ext/megamenu/proton-megamenu.php:205
+msgid "Check this to make this menu full width"
+msgstr "Zaznacz aby to menu miało szerokość ekranu"
+
+#: ext/megamenu/proton-megamenu.php:81 ext/megamenu/proton-megamenu.php:215
+msgid "Trigger"
+msgstr "Kontrolka"
+
+#: ext/megamenu/proton-megamenu.php:82 ext/megamenu/proton-megamenu.php:216
+msgid "Set trigger action"
+msgstr "Ustaw akcje dla kontrolki"
+
+#: ext/megamenu/proton-megamenu.php:90 ext/megamenu/proton-megamenu.php:224
+msgid "On hover"
+msgstr "Po najechaniu"
+
+#: ext/megamenu/proton-megamenu.php:91 ext/megamenu/proton-megamenu.php:225
+msgid "On click"
+msgstr "Po kliknięciu"
+
+#: ext/megamenu/proton-megamenu.php:102 ext/megamenu/proton-megamenu.php:236
+msgid "Icon"
+msgstr "Ikona"
+
+#: ext/megamenu/proton-megamenu.php:103 ext/megamenu/proton-megamenu.php:237
+msgid "Set menu item icon"
+msgstr "Ustaw ikonę"
+
+#: ext/megamenu/proton-megamenu.php:110 ext/megamenu/proton-megamenu.php:244
+msgid "Image"
+msgstr "Obrazek"
+
+#: ext/megamenu/proton-megamenu.php:111 ext/megamenu/proton-megamenu.php:245
+msgid "Set image"
+msgstr "Ustaw obrazek"
+
+#: ext/megamenu/proton-megamenu.php:122 ext/megamenu/proton-megamenu.php:256
+msgid "Padding"
+msgstr "Margines wewnętrzny"
+
+#: ext/megamenu/proton-megamenu.php:123 ext/megamenu/proton-megamenu.php:257
+msgid "Set menu padding (top right bottom left)."
+msgstr "Ustaw margines wewnętrzny (góra prawo dół lewo)."
+
+#: ext/megamenu/proton-megamenu.php:124 ext/megamenu/proton-megamenu.php:258
+msgid "You can use px or %"
+msgstr "Możesz używać px lub %"
+
+#: ext/megamenu/proton-megamenu.php:134 ext/megamenu/proton-megamenu.php:268
+msgid "Columns"
+msgstr "Kolumny"
+
+#: ext/megamenu/proton-megamenu.php:135 ext/megamenu/proton-megamenu.php:269
+msgid "Set number of columns"
+msgstr "Ustaw liczbę kolumn"
+
+#: ext/megamenu/proton-megamenu.php:144 ext/megamenu/proton-megamenu.php:145
+#: ext/megamenu/proton-megamenu.php:146 ext/megamenu/proton-megamenu.php:147
+#: ext/megamenu/proton-megamenu.php:148 ext/megamenu/proton-megamenu.php:278
+#: ext/megamenu/proton-megamenu.php:279 ext/megamenu/proton-megamenu.php:280
+#: ext/megamenu/proton-megamenu.php:281 ext/megamenu/proton-megamenu.php:282
+msgid "columns"
+msgstr "kolumny"
+
+#: ext/megamenu/proton-megamenu.php:149 ext/megamenu/proton-megamenu.php:283
+msgid "column"
+msgstr "kolumna"
+
+#: fields/extended/field-extended.php:26
+msgid "Edit settings"
+msgstr "Edytuj ustawienia"
+
+#: fields/gallery/field-gallery.php:24 fields/gallery/field-gallery.php:26
+msgid "Select images"
+msgstr "Wybierz obrazek"
+
+#: fields/gallery/field-gallery.php:44
+msgid "Add/Edit images"
+msgstr "Dodaj / Edytuj obrazek"
+
+#: fields/gallery/field-gallery.php:45
+msgid "Clear images"
+msgstr "Usuń obrazy"
+
+#: fields/map/field-map.php:29
+msgid "Search address or show marker nearest"
+msgstr "Szukaj adresu aby zobaczyć okoliczne markery"
+
+#: fields/map/field-map.php:32
+msgid "Latitude"
+msgstr "Szerokość"
+
+#: fields/map/field-map.php:33
+msgid "Longitude"
+msgstr "Długość"
+
+#: fields/multi/field-multi.php:60 fields/multitext/field-multitext.php:31
+#: fields/multitext/field-multitext.php:38
+#: inc/class-opt-menu-adminwalker.php:211
+msgid "Remove"
+msgstr "Usuń"
+
+#: fields/multi/field-multi.php:67 fields/multitext/field-multitext.php:42
+msgid "Add More"
+msgstr "Dodaj więcej"
+
+#: fields/select/field-select.php:45
+msgid "Select an item"
+msgstr "Wybierz element"
+
+#: fields/select/field-select.php:80
+msgid "No items of this type were found."
+msgstr "Nie znaleziono nic tego rodzaju."
+
+#: fields/upload/field-upload.php:27 fields/upload/field-upload.php:29
+msgid "Select file"
+msgstr "Wybierz plik"
+
+#: fields/upload/field-upload.php:27 fields/upload/field-upload.php:60
+msgid "View file"
+msgstr "Zobacz plik"
+
+#: fields/upload/field-upload.php:69
+msgid "Add/Edit file"
+msgstr "Dodaj/Edytuj plik"
+
+#: fields/upload/field-upload.php:70
+msgid "Remove file"
+msgstr "Usuń plik"
+
+#: inc/class-images.php:47 inc/class-images.php:50 inc/class-images.php:102
+#: inc/class-images.php:104
+msgid "Post thumbnail"
+msgstr "Miniatura wpisu"
+
+#: inc/class-opt-menu-adminwalker.php:71
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Nieprawidłowe)"
+
+#: inc/class-opt-menu-adminwalker.php:75
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Oczekuje)"
+
+#: inc/class-opt-menu-adminwalker.php:98
+msgid "sub item"
+msgstr "podpozycja"
+
+#: inc/class-opt-menu-adminwalker.php:113
+msgid "Move up"
+msgstr "Przenieś w górę"
+
+#: inc/class-opt-menu-adminwalker.php:126
+msgid "Move down"
+msgstr "Przenieś w dół"
+
+#: inc/class-opt-menu-adminwalker.php:128
+#: inc/class-opt-menu-adminwalker.php:130
+msgid "Edit Menu Item"
+msgstr "Edytuj element menu"
+
+#: inc/class-opt-menu-adminwalker.php:139
+msgid "URL"
+msgstr "Odnośnik URL"
+
+#: inc/class-opt-menu-adminwalker.php:146
+msgid "Navigation Label"
+msgstr "Etykieta nawigacji"
+
+#: inc/class-opt-menu-adminwalker.php:152
+msgid "Title Attribute"
+msgstr "Atrybut Tytułu"
+
+#: inc/class-opt-menu-adminwalker.php:159
+msgid "Open link in a new window/tab"
+msgstr "Otwórz link w nowym oknie/zakładce"
+
+#: inc/class-opt-menu-adminwalker.php:164
+msgid "CSS Classes (optional)"
+msgstr "Style CSS (opcjonalnie)"
+
+#: inc/class-opt-menu-adminwalker.php:170
+msgid "Link Relationship (XFN)"
+msgstr "Powiązane Linki (XFN)"
+
+#: inc/class-opt-menu-adminwalker.php:176
+msgid "Description"
+msgstr "Opis"
+
+#: inc/class-opt-menu-adminwalker.php:178
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "Opis pojawi się w menu, jeśli aktualny motyw to wspiera."
+
+#: inc/class-opt-menu-adminwalker.php:184
+msgid "Move"
+msgstr "Przenieś"
+
+#: inc/class-opt-menu-adminwalker.php:185
+msgid "Up one"
+msgstr "Jeden wyżej"
+
+#: inc/class-opt-menu-adminwalker.php:186
+msgid "Down one"
+msgstr "Jeden niżej"
+
+#: inc/class-opt-menu-adminwalker.php:189
+msgid "To the top"
+msgstr "Do góry"
+
+#: inc/class-opt-menu-adminwalker.php:198
+#, php-format
+msgid "Original: %s"
+msgstr "Oryginalny: %s"
+
+#: inc/class-opt-menu-adminwalker.php:212 inc/template-modal.php:43
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: inc/class-opt-menu.php:132
+msgid "Additional setting"
+msgstr "Dodatkowe ustawienia"
+
+#: inc/class-opt-meta.php:167 inc/class-opt-meta.php:188
+#: inc/class-opt-meta.php:189
+#, php-format
+msgid "%s Custom Settings"
+msgstr "%s ustawienia"
+
+#: inc/class-sidebars.php:19
+msgid "Normal full width Sidebar"
+msgstr "Normalna pełna szerokość Sidebar"
+
+#: inc/class-update.php:102
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Wystąpił błąd wewnętrzny. </p> <p><a href=“?” onclick=“document.location."
+"reload(); return false;”>Proszę powtórzyć próbę.</a>"
+
+#: inc/class-update.php:107
+msgid "An unknown error occurred"
+msgstr "Wystąpił nieznany błąd"
+
+#: inc/functions-other.php:20
+msgid "ago"
+msgstr "temu"
+
+#: inc/functions-tinymce.php:12
+msgid "Custom Styles"
+msgstr "Style użytkownika"
+
+#: inc/functions-tinymce.php:15
+msgid "Theme Button"
+msgstr "Przycisk tematu"
+
+#: inc/functions-tinymce.php:20
+msgid "Highlight"
+msgstr "Wyróżnienie"
+
+#: inc/pointer.test.config.php:6
+msgid "Proton Custom Settings"
+msgstr "Ustawienia dodatkowe"
+
+#: inc/pointer.test.config.php:14 inc/pointer.test.config.php:29
+#: inc/pointer.test.config.php:44 inc/pointer.test.config.php:59
+#: inc/pointer.test.config.php:88 inc/pointer.test.config.php:106
+#: inc/pointer.test.config.php:123
+msgid "Next"
+msgstr "Następne"
+
+#: inc/template-modal.php:21 inc/template-modal.php:22
+msgid "Close"
+msgstr "Zamknij"
+
+#: inc/template-modal.php:45
+msgid "Save &amp; Continue"
+msgstr "Zapisz i kontynuuj"
+
+#. Plugin Name of the plugin/theme
+msgid "Proton Framework Plugin"
+msgstr "Proton Framework Plugin"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://protonthemes.com/"
+msgstr "http://protonthemes.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Proton Framework - A WordPress theme development framework. Best tools for "
+"your Wordpress site."
+msgstr ""
+"Proton Framework - A WordPress theme development framework. Best tools for "
+"your Wordpress site."
+
+#. Author of the plugin/theme
+msgid "Proton Themes"
+msgstr "Proton Themes"
+
+#~ msgid "Set background image"
+#~ msgstr "Ustaw obrazek tła"
+
+#~ msgid "Clone"
+#~ msgstr "Kopiuj"
+
+#~ msgid "@"
+#~ msgstr "@"
+
+#~ msgid "Insert"
+#~ msgstr "Wstaw"
+
+#~ msgid "View File"
+#~ msgstr "Zobacz plik"
+
+#~ msgid "Continue Reading"
+#~ msgstr "Kontynuuj"
+
+#~ msgid "All Options"
+#~ msgstr "Wszystkie opcje:"
+
+#~ msgid "Set menu padding (top right bottom left). You can use px or %"
+#~ msgstr ""
+#~ "Ustaw margines wewnętrzny (góra prawo dół lewo). Możesz używać px lub %."

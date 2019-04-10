@@ -1,0 +1,1 @@
+<a href="#proton-opt-{{ data.manager }}-section-{{ data.name }}"><i id="{{ data.icon }}-{{ data.name }}" class="livicon shadowed" data-s="18" data-n="{{ data.icon }}" data-c="#fff" data-hc="#fff" style="width: 18px; height: 18px;"></i><span class="label">{{ data.label }}</span></a>
