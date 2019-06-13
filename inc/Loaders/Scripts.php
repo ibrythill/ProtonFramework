@@ -89,10 +89,6 @@ class Scripts{
 
 		?>
 		<script>
-
-			if (typeof jQuery === 'function') {
-			  define('jquery', function () { return jQuery; });
-			}
 			require.config({
 				baseUrl: proton.basejs,
 				paths: {
@@ -115,6 +111,12 @@ class Scripts{
 					?>
 				}
 			});
+
+
+
+			if (typeof jQuery === 'function') {
+			  define('jquery', function () { return jQuery; });
+			}
 
 			require([<?php
 					foreach($queue as $key => $script){

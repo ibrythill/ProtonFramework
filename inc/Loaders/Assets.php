@@ -71,6 +71,7 @@ class Assets{
 	 * @return void
 	 */
 	public function front_enqueue() {
+		$git_path = '//cdn.jsdelivr.net/gh/ibrythill/ProtonFramework/assets/';
 		// Load the comment reply script on singular posts with open comments if threaded comments are supported.
 		//proton_enqueue_style( 'proton-framework', 	PROTON_ASSETS_URL . 'css/proton-framework.css', 5);
 		//wp_enqueue_script( 'loadCSS', 		PROTON_ASSETS_URL . 'js/vendor/loadCSS.min.js', array(), PROTON_VERSION  );

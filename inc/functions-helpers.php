@@ -21,10 +21,15 @@
 
 
 	//Get the theme's settings option
-	function pro_get_option($id){
+	function pro_get_option($id, $second = null){
 		global $protonthemepanel;
+		//var_dump($protonthemepanel);
 		//$options = get_option($protonthemepanel);
-		return $protonthemepanel[$id];
+		if(null == $second){
+			return $protonthemepanel[$id];
+		}else{
+			return $protonthemepanel[$id][$second];
+		}
 	}
 
 

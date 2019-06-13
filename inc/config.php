@@ -19,10 +19,10 @@ proton_register_script('onscreen', $git_path.'plugins/proton.onscreen.min', 0);
 proton_register_script('stopscroll', $git_path.'plugins/proton.stopscroll.min', 0);
 proton_register_script('longtitle', $git_path.'plugins/proton.longtitle.min', 0);
 
-proton_enqueue_script('proton_framework', 'proton.framework.min', 1);
+proton_enqueue_script('proton_framework', $git_path.'proton.framework.min', 1);
 
 
-$git_path = '//cdn.jsdelivr.net/gh/ibrythill/ProtonFramework/assets/';
+$git_path = '//cdn.jsdelivr.net/gh/ibrythill/ProtonFramework@latest/assets/';
 proton_enqueue_style( 'fontawesome', 	'https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css', 4);
 proton_enqueue_style( 'lightgallery', 	$git_path . 'css/lightgallery.min.css', 5);
 proton_enqueue_style( 'lg-transitions', 	$git_path . 'css/lg-transitions.min.css', 5);
